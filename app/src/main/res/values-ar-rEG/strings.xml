@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="ac">AC</string>
+    <string name="operation_ac">AC</string>
+    <string name="backspace">backspace</string>
+    <string name="operation_reminder">%</string>
+    <string name="operation_division">/</string>
+    <string name="number_7">٧</string>
+    <string name="number_8">٨</string>
+    <string name="number_9">٩</string>
+    <string name="number_4">٤</string>
+    <string name="number_5">٥</string>
+    <string name="number_6">٦</string>
+    <string name="number_1">١</string>
+    <string name="number_2">٢</string>
+    <string name="number_3">٣</string>
+    <string name="operation_positive_negative">±</string>
+    <string name="number_0">٠</string>
+    <string name="operation_multiplication">x</string>
+    <string name="operation_addition">+</string>
+    <string name="operation_subtraction">-</string>
+    <string name="operation_equal">=</string>
+    <string name="operation_dot">.</string>
+    <string name="error_invalid_input">إدخال غير صالح</string>
+    <string name="error_divide_by_zero">لا يمكن القسمة على صفر</string>
+    <string name="error_undefined">غير معرف</string>
+</resources>
